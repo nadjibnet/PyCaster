@@ -34,6 +34,7 @@ pages = [] # list of urls server will ignore sending buffer data to
 
 # How to run 
 ```bash
-pip -r requirements.txt
+apt-get install python-pip
+pip install -r requirements.txt
 python server.py
 ``
